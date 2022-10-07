@@ -18,11 +18,10 @@
 
 ## 動作環境
 
-* Mac OS 11.6(Big Sur)
-* Xcode Version 13.0
-* Simulator Version 13.0(970)
-* iPhone X (iOS15.0.2)
- * このサンプルアプリは、プッシュ通知を受信する必要があるため実機ビルドが必要です
+* Mac OS 12.5.1 (Monterey)
+* Xcode Version 14.0
+* iPhone X (iOS 16)
+  * このサンプルアプリは、プッシュ通知を受信する必要があるため実機ビルドが必要です
 
 ※上記内容で動作確認をしています
 
