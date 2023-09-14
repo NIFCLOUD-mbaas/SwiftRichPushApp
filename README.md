@@ -20,7 +20,7 @@
 
 * Mac OS 13.4.1 (Venture)
 * Xcode Version 15.0
-* iPhone X (iOS 17)
+* iPhone SE (iOS 17)
   * このサンプルアプリは、プッシュ通知を受信する必要があるため実機ビルドが必要です
 
 ※上記内容で動作確認をしています
